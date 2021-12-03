@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Shah</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-shah12" alt="akshat-shah12" /></a> </p>
-
-- 📫 How to reach me **avshah2001@gmail.com**
+ -->
+- 📫 You can connect with me on **avshah2001@gmail.com** or **akshatvshah108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
